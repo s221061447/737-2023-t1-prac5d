@@ -54,4 +54,6 @@ The available endpoints are (All are GET requests):
 4. /calculate/dividetwonumbers?n1=x&n2=y
 ```
 ***
-The server runs on port 3030 and can be run by using the command "npm run start".
+The caclulator microservice runs on port 3030 and can be run by using the command "npm run start".
+***
+For running using docker run "docker-compose up --build -d"
